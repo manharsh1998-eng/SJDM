@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 140" role="img" aria-labelledby="title desc">
+  <title id="title">SJDM Constructions and Services Pvt Ltd</title>
+  <desc id="desc">Modern Punjab-focused construction logo with wheat and skyline mark</desc>
+  <defs>
+    <linearGradient id="saffronGold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFD163"/>
+      <stop offset="1" stop-color="#C98A1F"/>
+    </linearGradient>
+    <linearGradient id="fieldGreen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2E7B4E"/>
+      <stop offset="1" stop-color="#1E5A39"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(8,12)">
+    <rect x="0" y="0" width="116" height="116" rx="24" fill="#10161F"/>
+
+    <g fill="url(#saffronGold)">
+      <rect x="26" y="58" width="12" height="36" rx="2"/>
+      <rect x="42" y="42" width="12" height="52" rx="2"/>
+      <rect x="58" y="28" width="12" height="66" rx="2"/>
+      <rect x="74" y="48" width="12" height="46" rx="2"/>
+    </g>
+
+    <path d="M16 96H100" stroke="url(#fieldGreen)" stroke-width="7" stroke-linecap="round"/>
+
+    <g fill="none" stroke="url(#fieldGreen)" stroke-width="2.5" stroke-linecap="round">
+      <path d="M22 88C26 81 31 76 37 73"/>
+      <path d="M94 88C90 81 85 76 79 73"/>
+    </g>
+  </g>
+
+  <g transform="translate(140,24)">
+    <text x="0" y="32" font-family="Sora, Noto Sans Gurmukhi, Segoe UI, Arial, sans-serif" font-size="34" font-weight="800" fill="#141E2D">
+      SJDM CONSTRUCTIONS
+    </text>
+    <text x="0" y="60" font-family="Manrope, Noto Sans Gurmukhi, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#2A3A52">
+      AND SERVICES PVT LTD
+    </text>
+    <text x="0" y="86" font-family="Manrope, Noto Sans Gurmukhi, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#A06A13">
+      Construction • Renovation • New Homes • Interiors
+    </text>
+    <text x="0" y="108" font-family="Noto Sans Gurmukhi, Manrope, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#2E7B4E">
+      ਪੰਜਾਬ ਕੇਂਦਰਿਤ ਐਗਜ਼ਿਕਿਊਸ਼ਨ
+    </text>
+  </g>
+</svg>

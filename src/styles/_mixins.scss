@@ -1,0 +1,32 @@
+@use './variables' as *;
+
+@mixin container {
+  width: min(1140px, 92%);
+  margin-inline: auto;
+}
+
+@mixin button-reset {
+  -webkit-appearance: none;
+  appearance: none;
+  border: 0;
+  background: transparent;
+  padding: 0;
+  font: inherit;
+  color: inherit;
+  cursor: pointer;
+}
+
+@mixin focus-ring {
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+  &:focus-visible {
+    outline-color: $accent;
+  }
+}
+
+@mixin card {
+  background: $white;
+  border: $border;
+  border-radius: $radius;
+  box-shadow: $shadow;
+}

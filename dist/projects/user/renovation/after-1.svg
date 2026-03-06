@@ -1,0 +1,18 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#132D47"/>
+      <stop offset="1" stop-color="#355F84"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#g3)"/>
+  <rect x="120" y="130" width="1360" height="740" rx="26" fill="#0E2237" stroke="#F6BE79" stroke-width="4"/>
+  <line x1="280" y1="130" x2="280" y2="870" stroke="#2E587D" stroke-width="4"/>
+  <line x1="520" y1="130" x2="520" y2="870" stroke="#2E587D" stroke-width="4"/>
+  <line x1="760" y1="130" x2="760" y2="870" stroke="#2E587D" stroke-width="4"/>
+  <line x1="1000" y1="130" x2="1000" y2="870" stroke="#2E587D" stroke-width="4"/>
+  <line x1="1240" y1="130" x2="1240" y2="870" stroke="#2E587D" stroke-width="4"/>
+  <line x1="120" y1="350" x2="1480" y2="350" stroke="#2E587D" stroke-width="4"/>
+  <line x1="120" y1="570" x2="1480" y2="570" stroke="#2E587D" stroke-width="4"/>
+  <text x="160" y="940" fill="#E6EEF8" font-family="Arial, sans-serif" font-size="72" font-weight="700">Maple Lofts Renovation</text>
+</svg>
